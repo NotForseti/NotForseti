@@ -11,7 +11,7 @@
 <br/>
 
 ### Languages and Tools:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][https://code.visualstudio.com/]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][visualstudiocode]
 
 <br/>
 <br/>
@@ -19,3 +19,4 @@
 [website]: https://www.forseti-it.be/
 [linkedin]: https://www.linkedin.com/in/ian-schatteman-000/
 [twitter]: https://twitter.com/IanSchatteman
+[visualstudiocode]: https://code.visualstudio.com/
