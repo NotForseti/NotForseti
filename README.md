@@ -1,6 +1,6 @@
-### Hello everyone, I am Ian - aka [Forseti][https://www.forseti-it.be/]
+### Hello everyone, I am Ian - aka [Forseti](https://www.forseti-it.be/)
 
-## I am a student at [Howest][https://www.howest.be/en/programmes/bachelor/applied-computer-science]!
+## I am a student at [Howest](https://www.howest.be/en/programmes/bachelor/applied-computer-science)!
 - 🔐 Cyber Security Professional
 - 👨‍💻 Software Engineer
 
