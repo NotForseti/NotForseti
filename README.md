@@ -22,7 +22,7 @@
 <br/>
 
 ---
-<img align="center" alt="Forseti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NotForseti&show_icons=true&hide_border=true&theme=darcula&hide=hide_title" />
+<img align="center" alt="Forseti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NotForseti&show_icons=true&hide_border=true&theme=darcula" />
 
 
 [website]: https://www.forseti-it.be/
