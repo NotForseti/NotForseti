@@ -27,5 +27,5 @@
 
 
 [website]: https://www.forseti-it.be/
-[linkedin]: https://www.linkedin.com/in/ian-schatteman-000/
+[linkedin]: https://www.linkedin.com/in/ian-schatteman/
 [twitter]: https://twitter.com/IanSchatteman
