@@ -1,8 +1,8 @@
 ### Welcome to my profile, I am known as [Forseti](https://www.forseti-it.be/).
 
-## I am a student at [Howest](https://www.howest.be/en/programmes/bachelor/applied-computer-science)!
-- 🔐 Cyber Security Professional
-- 👨‍💻 Software Engineer
+## I am a Cyber Security Analyst.
+- 🔐 Cyber Security Professional @[Howest](https://www.howest.be/en/programmes/bachelor/applied-computer-science/cyber-security-professional)
+- GIAC Security Essentials 
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
