@@ -1,12 +1,8 @@
 ### Welcome to my profile, I am known as [Forseti](https://www.forseti-it.be/).
 
 ## I am a Cyber Security Analyst.
-- 🔐 Cyber Security Professional @[Howest](https://www.howest.be/en/programmes/bachelor/applied-computer-science/cyber-security-professional)
+- Cyber Security Professional 
 - GIAC Security Essentials 
-
-### Connect with me:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br/>
 
@@ -25,7 +21,3 @@
 ---
 <img align="center" alt="Forseti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NotForseti&show_icons=true&hide_border=true&theme=darcula&hide=hide_title" />
 
-
-[website]: https://www.forseti-it.be/
-[linkedin]: https://www.linkedin.com/in/ian-schatteman/
-[twitter]: https://twitter.com/IanSchatteman
