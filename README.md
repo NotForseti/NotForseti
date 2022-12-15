@@ -1,4 +1,4 @@
-### Welcome to my profile, I am known as [Forseti](https://www.forseti-it.be/).
+### Welcome to my profile, I am known as Forseti.
 
 ## I am a Cyber Security Analyst.
 - Cyber Security Professional 
