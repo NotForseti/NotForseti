@@ -2,7 +2,7 @@
 
 ## I am a Cyber Security Analyst.
 - Cyber Security Professional 
-- GSEC/GSOC/GCIA/GDAT Certified
+- GSEC/GSOC/GCIA/GDAT/GCIH/GRID Certified
 
 <br/>
 
